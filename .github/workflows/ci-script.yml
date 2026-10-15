@@ -75,13 +75,13 @@ jobs:
         # Action này tương đương lệnh: git clone <repo> .
 
       # --- BƯỚC 2: Cài đặt JDK ---
-      - name: Set up JDK 25 (LTS)
+      - name: Set up JDK 26 (LTS)
         uses: actions/setup-java@v5
         with:
           # JDK 25 là bản LTS (Long-Term Support) — ổn định, dùng đến 2028.
           # ⚠️ KHÔNG nên dùng JDK 24 vì đây là bản non-LTS, chỉ hỗ trợ 6 tháng,
           #    nhiều framework (Spring Boot 3.2, v.v.) chưa tương thích.
-          java-version: '25'
+          java-version: '26'
           distribution: 'temurin'   # Temurin = Eclipse Adoptium, miễn phí, phổ biến
           cache: maven              # Cache thư mục ~/.m2 để lần sau build nhanh hơn
 
