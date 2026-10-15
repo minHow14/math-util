@@ -1,3 +1,6 @@
+[![Math Utility Project (CI included) | © 2026 by minHow](https://github.com/minHow14/math-util/actions/workflows/ci-script.yml/badge.svg)](https://github.com/minHow14/math-util/actions/workflows/ci-script.yml)
+
+
 # Welcome to Math Utility
 
 ### You will find in this repo the following stuff:
@@ -12,4 +15,4 @@
 
 #### Connect me via:: tamhhau112@gmail.com
 
-##### © 2026 - minHow14
+##### &#169; 2026 - minHow14
