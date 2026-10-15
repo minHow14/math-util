@@ -12,4 +12,4 @@
 
 #### Connect me via:: tamhhau112@gmail.com
 
-##### &copy 2026 - minHow14
+##### &#169 2026 - minHow14
